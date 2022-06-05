@@ -1,1 +1,15 @@
+first bug:
+priority: medium
+severity: critical
+type: functional
+steps to reproduce: open any page
+actual result: no scroll bar on the right side of the site
+expected result: scroll bar on the right side of the site
 
+second bug:
+priority: low
+severity: critical
+type": content
+steps to reproduce: Open home page, sroll down to the end
+actual result: incorrect text
+expected result: correct text
