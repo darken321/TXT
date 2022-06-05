@@ -1,0 +1,5 @@
+Name:Bondarenka Vasili Olegovich
+age:40
+Pets:0
+Salary:1000
+
